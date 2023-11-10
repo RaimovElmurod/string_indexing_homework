@@ -1,9 +1,4 @@
 def main(s):
-    """
-    The string variable s is given. return the second character.
-    Args:
-        s(str): parameter
-    Returns:
-        str: answer
-    """
-    return
+    return s[1]
+print(main("python"))
+print(main("code"))
