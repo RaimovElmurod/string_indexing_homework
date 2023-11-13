@@ -6,4 +6,11 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    a1=int(s[0])
+    a2=int(s[1])
+    a3=int(s[2])
+    a4=int(s[3])
+    a5=int(s[4])
+    return a1+a2+a3+a4+a5
+print(main("12332"))
+print(main("10002"))
